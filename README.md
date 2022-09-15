@@ -1,4 +1,4 @@
-# EC+T Track and Android platform. <img src="src/readme/logo.png" align="right" width="200" />
+# EC+T Track and Android platform <img src="src/readme/logo.png" align="right" width="200" />
 
 ### Description
 
