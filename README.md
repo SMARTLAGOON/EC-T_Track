@@ -1,4 +1,4 @@
-# Low-cost automated GPS, Electrical Conductivity and Temperature sensing device (EC+T Track) and Android platform for water quality monitoring campaigns<img src="src/readme/logo.png" align="right" width="200" />
+# Low-cost automated GPS, Electrical Conductivity and Temperature sensing device (EC+T Track) and Android platform for water quality monitoring campaigns <br /> <img src="src/readme/logo.png" align="right" width="200" />
 
 ### Description
 
